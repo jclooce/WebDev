@@ -21,7 +21,7 @@ section img {
     width: 100%;
     height: 100%;
     left: -2px;
-    top: 94px;  
+    margin-top: none; 
 }
 section.main {
     /* background-image: url(img/gin_glass_cropped.jpg); */
@@ -49,12 +49,13 @@ section h1 {
     text-align: left;
 }
 
-/* Navbar items */
+/* Navbar items */ /*changed*/
 nav li {
     list-style: none;
     display: inline;
     font-size: 200%;
     margin-left: 30px;
+    font-family:Arial, Helvetica, sans-serif
 }
 
 /* Navbar buttons */
@@ -89,5 +90,4 @@ nav button.white {
     height: 500px;
     padding-bottom: 1000px;
 }
-
 
