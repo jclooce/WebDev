@@ -18,15 +18,15 @@ section.main {
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
-    width: 2000px;
-    height: 960px;
+    width: 1300px;
+    height: auto;
     left: -2px;
     top: 94px;  
 }
 
 /* Find your perfect Gin */
 section h1 {
-    width: 2000px;
+    width: 1300px;
     height: 334px;
     left: 80px;
     position: absolute;
