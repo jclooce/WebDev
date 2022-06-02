@@ -13,6 +13,16 @@ nav {
 }
 
 /* Big image with Gin */
+section img {
+    /* background-image: url(img/gin_glass_cropped.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    left: -2px;
+    top: 94px;  
+}
 section.main {
     /* background-image: url(img/gin_glass_cropped.jpg); */
     background-size: cover;
@@ -23,6 +33,8 @@ section.main {
     left: -2px;
     top: 94px;  
 }
+
+
 
 /* Find your perfect Gin */
 section h1 {
